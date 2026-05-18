@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-mergeDebugResources-42:\\layout\\item_expense.xml",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-mergeDebugResources-42:\\layout\\fragment_statistics.xml",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-mergeDebugResources-42:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-42:/layout/dialog_add_expense.xml",
+        "source": "com.example.expensetracker.app-main-45:/layout/dialog_add_expense.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-42:/layout/fragment_statistics.xml",
+        "source": "com.example.expensetracker.app-main-45:/layout/fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-mergeDebugResources-42:\\layout\\dialog_add_expense.xml",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\dialog_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-mergeDebugResources-42:\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-mergeDebugResources-42:\\layout\\item_category_breakdown.xml",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\item_category_breakdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "com.example.expensetracker.app-main-45:/layout/fragment_home.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.expensetracker.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.expensetracker.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\color_bottom_nav_color.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\color\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.expensetracker.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\layout_fragment_statistics.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\layout_dialog_add_expense.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\dialog_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.expensetracker.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-debug-43:\\layout_item_category_breakdown.xml.flat",
+        "source": "C:\\Users\\da\\.gradle\\daemon\\8.13\\com.example.expensetracker.app-main-45:\\layout\\item_category_breakdown.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-43:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.expensetracker.app-main-45:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-43:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.expensetracker.app-main-45:/mipmap/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,7 @@
+com.example.expensetracker.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\da\.gradle\caches\8.13\transforms\9a013d76483f1f5926fece17f121bb89\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.expensetracker.test.app-jetified-core-1.5.0-1 C:\Users\da\.gradle\caches\8.13\transforms\cba343ab77719e56438adba7eba1f73c\transformed\jetified-core-1.5.0\res
+com.example.expensetracker.test.app-androidTest-2 D:\Tare项目\新建文件夹\app\build\generated\res\resValues\androidTest\debug
+com.example.expensetracker.test.app-updated_navigation_xml-3 D:\Tare项目\新建文件夹\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.expensetracker.test.app-mergeDebugAndroidTestResources-4 D:\Tare项目\新建文件夹\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.expensetracker.test.app-mergeDebugAndroidTestResources-5 D:\Tare项目\新建文件夹\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.expensetracker.test.app-debugAndroidTest-6 D:\Tare项目\新建文件夹\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
